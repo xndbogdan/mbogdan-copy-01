@@ -1,7 +1,10 @@
-landing_style: style1-alt
+landing_style: style2-alt
 alt_style: alt
-copyright: '&copy; Hyperspace. All rights reserved.'
+copyright: '&copy; Mosteanu Bogdan. All rights reserved.'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+  - text: You can find me on GitHub
+    url: 'https://github.com/xndbogdan'
     new_window: true
+  - new_window: true
+    text: Also give me a listen
+    url: 'https://soundcloud.com/hbwannabe'
