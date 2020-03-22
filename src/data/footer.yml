@@ -1,10 +1,4 @@
-landing_style: style3-alt
+landing_style: alt
 alt_style: alt
 copyright: '&copy; Mosteanu Bogdan. All rights reserved.'
-links:
-  - text: You can find me on GitHub
-    url: 'https://github.com/xndbogdan'
-    new_window: true
-  - new_window: true
-    text: Also give me a listen
-    url: 'https://soundcloud.com/hbwannabe'
+links: []
