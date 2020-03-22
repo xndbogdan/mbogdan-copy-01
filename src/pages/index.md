@@ -5,10 +5,10 @@ sidebar:
     - title: Welcome
       url: '#intro'
       is_primary: true
-    - title: Who we are
+    - title: About me
       url: '#one'
       is_primary: false
-    - title: What we do
+    - title: Projects
       url: '#two'
       is_primary: false
     - title: Get in touch
@@ -16,10 +16,8 @@ sidebar:
       is_primary: false
 sections:
   - type: intro
-    title: Hyperspace
-    subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
+    title: Not your average Bogdan
+    subtitle: 'Passionate about computers, programming and electronic music'
     section_id: intro
     background_style: style1
     actions:
