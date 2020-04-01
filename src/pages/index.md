@@ -37,36 +37,24 @@ sections:
     section_id: two
     background_style: style3
     features_list:
-      - title: Lorem ipsum amet
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fab fa-laravel
-      - title: Aliquam sed nullam
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-lock
-      - title: Sed erat ullam corper
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-cog
-      - title: Veroeros quis lorem
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-desktop
-      - title: Urna quis bibendum
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-chain
-      - title: Aliquam urna dapibus
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-diamond
+      - title: Laravel
+        text: Over 2 years of experience
+        icon: fa-code
+      - title: Vue.JS
+        text: ''
+        icon: fa-npm
+      - title: Alpine.JS
+        text: ''
+        icon: fa-npm
+      - title: Inertia.JS
+        text: ''
+        icon: fa-code
+      - title: Bootstrap & Tailwindcss
+        text: ''
+        icon: fa-css3
+      - title: ASP.NET
+        text: ''
+        icon: fa-windows
     actions:
       - label: Learn more
         url: /generic
