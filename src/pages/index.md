@@ -32,12 +32,8 @@ sections:
     background_style: style2
     component: Spotlights
   - type: features
-    title: What we do
-    subtitle: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
+    title: Relevant skills
+    subtitle: ''
     section_id: two
     background_style: style3
     features_list:
@@ -45,7 +41,7 @@ sections:
         text: >-
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
-        icon: fa-code
+        icon: fab fa-laravel
       - title: Aliquam sed nullam
         text: >-
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
