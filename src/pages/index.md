@@ -39,7 +39,7 @@ sections:
     features_list:
       - title: Laravel
         text: Over 2 years of experience
-        icon: fab  fa-laravel
+        icon: fab  fa-laravel orange-fa
       - title: Vue.JS
         text: ''
         icon: fab fa-js orange-fa
@@ -48,7 +48,7 @@ sections:
         icon: fab fa-js orange-fa
       - title: Inertia.JS
         text: ''
-        icon: fa-code
+        icon: fab fa-js orange-fa
       - title: Bootstrap & Tailwindcss
         text: ''
         icon: fa-css3
