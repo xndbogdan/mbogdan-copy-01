@@ -39,7 +39,7 @@ sections:
     features_list:
       - title: Laravel
         text: Over 2 years of experience
-        icon: fa-code
+        icon: fab  fa-laravel
       - title: Vue.JS
         text: ''
         icon: fab fa-js orange-fa
