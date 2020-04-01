@@ -2,7 +2,7 @@
 title: Home
 sidebar:
   entries:
-    - title: Welcome
+    - title: 'Welcome '
       url: '#intro'
       is_primary: true
     - title: About me
