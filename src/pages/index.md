@@ -42,10 +42,10 @@ sections:
         icon: fa-code
       - title: Vue.JS
         text: ''
-        icon: fa-npm
+        icon: fa-js
       - title: Alpine.JS
         text: ''
-        icon: fa-npm
+        icon: fa-js
       - title: Inertia.JS
         text: ''
         icon: fa-code
