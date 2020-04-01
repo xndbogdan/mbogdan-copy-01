@@ -8,7 +8,7 @@ sidebar:
     - title: About me
       url: '#one'
       is_primary: false
-    - title: Projects
+    - title: Skills
       url: '#two'
       is_primary: false
     - title: Get in touch
