@@ -68,7 +68,9 @@ sections:
     background_style: style1
     contact_list:
       - title: Address
-        text: Strada Targu Neamt Nr. 14A Bloc B37
+        text: |-
+          Romania, Bucharest,
+          Strada Targu Neamt Nr. 14A Bloc B37
       - title: Email
         text: bogdanmmosteanu@gmail.com
         url: 'mailto:bogdanmmosteanu@gmail.com'
