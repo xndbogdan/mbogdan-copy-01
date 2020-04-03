@@ -24,7 +24,7 @@ sections:
       - label: Learn more
         url: '#one'
         is_scrolly: true
-        is_primary: false
+        is_primary: true
     component: Intro
   - type: spotlights
     title: Spotlights Section
@@ -38,15 +38,15 @@ sections:
     background_style: style3
     features_list:
       - title: Laravel
-        text: Over 2 years of experience
+        text: Over 2 years of experience.
         icon: fab  fa-laravel orange-fa
-      - title: Vue.JS
+      - title: Vue.js
         text: ''
         icon: fab fa-js orange-fa
-      - title: Alpine.JS
+      - title: Alpine.js
         text: ''
         icon: fab fa-js orange-fa
-      - title: Inertia.JS
+      - title: Inertia.js
         text: ''
         icon: fab fa-js orange-fa
       - title: Bootstrap & Tailwindcss
@@ -59,46 +59,37 @@ sections:
       - label: Learn more
         url: /generic
         is_scrolly: false
-        is_primary: false
+        is_primary: true
     component: Features
   - type: contact
     title: Get in touch
-    text: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
+    text: 'Don''t delay, apply for my services today!'
     section_id: three
     background_style: style1
     contact_list:
       - title: Address
-        text: |-
-          12345 Somewhere Road #654
-          Nashville, TN 00000-0000
-          USA
+        text: Strada Targu Neamt Nr. 14A Bloc B37
       - title: Email
-        text: user@Hyperspace.tld
-        url: '#'
+        text: bogdanmmosteanu@gmail.com
+        url: 'mailto:bogdanmmosteanu@gmail.com'
       - title: Phone
-        text: (000) 000-0000
+        text: '+40723400149'
+        url: 'tel:+40723400149'
     social:
-      title: Social
+      title: Social Media
       social_icons:
         - title: Twitter
           icon: fa-twitter
-          url: '#'
-        - title: Facebook
-          icon: fa-facebook
-          url: '#'
+          url: 'https://twitter.com/xnd_bogdan'
         - title: GitHub
           icon: fa-github
-          url: '#'
+          url: 'https://github.com/xndbogdan'
         - title: Instagram
           icon: fa-instagram
-          url: '#'
+          url: 'https://www.instagram.com/xnd_bogdan/'
         - title: LinkedIn
           icon: fa-linkedin
-          url: '#'
+          url: 'https://www.linkedin.com/in/bogdan-mihai-476262120/'
     component: Contact
 menus:
   main:
