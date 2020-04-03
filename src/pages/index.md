@@ -41,19 +41,23 @@ sections:
         text: Over 2 years of experience.
         icon: fab  fa-laravel orange-fa
       - title: Vue.js
-        text: ''
+        text: Consistently used in Laravel projects.
         icon: fab fa-js orange-fa
       - title: Alpine.js
         text: ''
         icon: fab fa-js orange-fa
       - title: Inertia.js
-        text: ''
+        text: >-
+          Used for [TrackerPro ](https://github.com/xndbogdan/TrackerPro)hiring
+          challenge.
         icon: fab fa-js orange-fa
       - title: Bootstrap & Tailwindcss
-        text: ''
+        text: Big fan of Tailwind. Experienced with Bootstrap 3 and 4.
         icon: fa-css3
       - title: ASP.NET
-        text: ''
+        text: >-
+          Worked on ExeSoftware's [esFields
+          ](https://www.exesoftware.ro/ro/produse/esfields/)project.
         icon: fa-windows
     actions: []
     component: Features
