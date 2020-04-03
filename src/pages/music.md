@@ -18,6 +18,6 @@ My favourite tools are Ableton Live and Serum.
 I'm also a big fan of synthesizers.
 
 \
-This is my latest release
+Check out my latest release
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fj9EUYpUhpM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
