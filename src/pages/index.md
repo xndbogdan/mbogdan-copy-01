@@ -55,11 +55,7 @@ sections:
       - title: ASP.NET
         text: ''
         icon: fa-windows
-    actions:
-      - label: Learn more
-        url: /generic
-        is_scrolly: false
-        is_primary: true
+    actions: []
     component: Features
   - type: contact
     title: Get in touch
