@@ -20,4 +20,12 @@ I'm also a big fan of synthesizers.
 \
 Check out my latest release
 
-<iframe width="560" height="315" style="width:100%;" src="https://www.youtube.com/embed/Fj9EUYpUhpM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="adaptive-video" width="560" height="315" src="https://www.youtube.com/embed/Fj9EUYpUhpM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<style>
+@media screen and (max-width: 767px) {
+   .adaptive-video {
+      width:100%!important;
+   }
+}
+</style>
