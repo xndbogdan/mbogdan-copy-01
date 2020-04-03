@@ -44,7 +44,7 @@ sections:
         text: Consistently used in Laravel projects.
         icon: fab fa-js orange-fa
       - title: Alpine.js
-        text: ''
+        text: Used where loading times and payload size are a concern.
         icon: fab fa-js orange-fa
       - title: Inertia.js
         text: >-
