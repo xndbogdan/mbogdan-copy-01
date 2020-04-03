@@ -25,9 +25,7 @@ My most useful collaboration was working with [Artgames](http://artgames.ro/), w
 
 Now I am an independent contractor, looking to work on challenging projects.
 
-
-
-Other projects:
+**Other projects:**
 
 [TrackerPro ](https://github.com/xndbogdan/TrackerPro)hiring challenge using Inertia.js.
 
