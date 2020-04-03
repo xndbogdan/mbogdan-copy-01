@@ -123,9 +123,19 @@ $palette: (
 					 url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.woff") format("woff"),
 					 url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.ttf") format("truetype")
 		}
+
+	@font-face {
+		font-family: "FontAwesomeBrands";
+		font-weight: normal;
+		font-style : normal;
+				src : 	url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.eot");
+				src : 	url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.woff2") format("woff2"),
+						url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.woff") format("woff"),
+						url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.ttf") format("truetype")
+		}
 		
 	.fab:before {
-		font-family: FontAwesome!important;
+		font-family: FontAwesomeBrands!important;
 	}
 	.orange-fa {
 		color: #b84d50!important;
