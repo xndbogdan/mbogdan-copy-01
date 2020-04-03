@@ -1,19 +1,23 @@
 ---
-title: Ultricies aliquam
-content_img_path: images/pic04.jpg
+title: Electronic Music Production
+content_img_path: /images/49032.jpg
 home_spotlights:
   enabled: true
   weight: 3
-  excerpt: >-
-    Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
+  excerpt: Check out my sounds
   home_img:
-    path: images/pic03.jpg
+    path: /images/ecopetit.cat-music-themed-wallpaper-1425081.png
     data_position: 25% 25%
     url: '#'
 template: page
 ---
+I have been involved in music production for about 8 years.
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
+My favourite tools are Ableton Live and Serum.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+I'm also a big fan of synthesizers.
+
+\
+This is my latest release
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fj9EUYpUhpM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
