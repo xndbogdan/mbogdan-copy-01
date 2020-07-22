@@ -15,15 +15,11 @@ My name is Moșteanu Bogdan-Mihai.
 
 I'm an independent full-stack developer from Bucharest, Romania
 
-I've always been passionate about software development, and in computers in general.
-
-
-
-I also had other jobs working with PHP/Symfony and Java. 
-
 My most useful collaboration was working with [Artgames](http://artgames.ro/), where I worked on the [Artmark](https://artmark.ro) website - a platform for online auctions, and [Art Safari](https://tickets.artsafari.ro/e) - a platform for selling tickets to the Art Safari events.
 
 Now I am an independent contractor, looking for challenging projects.
+
+Passionate about finding solutions to problems you didn't even know you had.
 
 ### **Relevant projects**
 
