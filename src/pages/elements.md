@@ -2,7 +2,7 @@
 title: Elements
 menus:
   main:
-    title: Elements
+    title: ""
     weight: 3
 template: elements
 ---
