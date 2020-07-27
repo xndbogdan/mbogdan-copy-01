@@ -39,7 +39,7 @@ Passionate about finding solutions to problems you didn't even know you had.
 * Gained experience with Laravel, Vue and Vuex
 * Was responsible for full stack development
 
-## [Sentimente ](https://www.sentimente.ro/)- Developer
+### [Sentimente ](https://www.sentimente.ro/)- Developer
 
 * Online dating application
 * Worked in a team of 3-5 people
