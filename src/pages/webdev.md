@@ -39,14 +39,14 @@ Passionate about finding solutions to problems you didn't even know you had.
 * Gained experience with Laravel, Vue and Vuex
 * Was responsible for full stack development
 
-[Sentimente ](https://www.sentimente.ro/)- Developer
+## [Sentimente ](https://www.sentimente.ro/)- Developer
 
 * Online dating application
 * Worked in a team of 3-5 people
 * Was responsible for maintaining, bugfixing and adding new features
 * Gained experience with Symfony and Zend
 
-###  [esFields ](https://www.exesoftware.ro/ro/produse/esfields/)- Developer
+### [esFields ](https://www.exesoftware.ro/ro/produse/esfields/)- Developer
 
 * Highly customizable solution for field data collection
 * Worked in a team of about 5 people
@@ -65,7 +65,7 @@ Passionate about finding solutions to problems you didn't even know you had.
 ### [Aftermath Studio](https://github.com/xndbogdan/AftermathStudio) - Personal project
 
 * Beginner friendly music production software
-* Worked in a two man team, with [Aldo Dumitrescu](https://findaldo.dev/)
+* Worked in a two man team, with <span style="color:white;">**[Aldo Dumitrescu](https://findaldo.dev/) </span>**
 * Written in C#, with WPF
 * Highly optimized, can make use of multiple cpu threads
 * Got national and international gold medals at Infomatrix 2016
