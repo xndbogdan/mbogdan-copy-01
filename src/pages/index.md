@@ -66,7 +66,7 @@ sections:
     background_style: style1
     contact_list:
       - title: Address
-        text: Romania, Bucharest
+        text: ""
       - title: Email
         text: bogdanmmosteanu@gmail.com
         url: mailto:bogdanmmosteanu@gmail.com
