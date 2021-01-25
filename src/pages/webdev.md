@@ -31,14 +31,13 @@ Passionate about finding solutions to problems you didn't even know you had.
 
 <!--EndFragment-->
 
-
-
 ### [Webfusion](https://artmark.ro)**\-** Full Stack Development & Devops
 
 * Implemented error reporting software & integrated microservices like aws s3 & sns
 * Working with a team of ~4 people
 * Maintaining old php5.6 code and migrating some projects to lumen/laravel 8
 * Gained experience with multi tenancy
+* Worked with redis
 
 ### **[A10 ](https://artmark.ro)-** Developer
 
@@ -50,14 +49,13 @@ Passionate about finding solutions to problems you didn't even know you had.
 * Built [https://www.artmark.ro/](<* https://www.artmark.ro/>) and [https://www.sothebysrealty.ro/](<* https://www.sothebysrealty.ro/>) with the dev team.
 * Maintained and upgraded [https://www.artsafari.ro/ ](<* https://www.artsafari.ro/>)and [https://tickets.artsafari.ro/.](https://tickets.artsafari.ro/)
 
-
-
 ### [Sentimente ](https://www.sentimente.ro/)- Developer
 
 * Online dating application
 * Worked in a team of 3-5 people
 * Was responsible for maintaining, bugfixing and adding new features ( Junior Tasks)
 * Gained experience with Symfony and Zend
+* Worked with mongodb
 
 ### [esFields ](https://www.exesoftware.ro/ro/produse/esfields/)- Developer
 
@@ -82,8 +80,6 @@ Passionate about finding solutions to problems you didn't even know you had.
 * Written in C#, with WPF
 * Highly optimized, can make use of multiple cpu threads
 * *Got national and international gold medals at Infomatrix 2016*
-
-
 
 ### [TrackerPro ](https://github.com/xndbogdan/TrackerPro)hiring challenge using Inertia.js.
 
