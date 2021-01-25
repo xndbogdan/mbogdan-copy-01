@@ -38,10 +38,10 @@ sections:
     background_style: style3
     features_list:
       - title: Laravel
-        text: Over 2 years of experience.
+        text: Over 3 years of experience.
         icon: fab  fa-laravel orange-fa
       - title: Vue.js
-        text: Consistently used in Laravel projects.
+        text: Consistently used in Laravel projects. Also used with Intertia.js.
         icon: fab fa-js orange-fa
       - title: Alpine.js
         text: Used where loading times and payload size are a concern.
@@ -50,7 +50,7 @@ sections:
         text: Used for [TrackerPro ](https://github.com/xndbogdan/TrackerPro)hiring
           challenge.
         icon: fab fa-js orange-fa
-      - title: Bootstrap & Tailwindcss
+      - title: Tailwindcss & Bootstrap
         text: Big fan of Tailwind. Experienced with Bootstrap 3 and 4.
         icon: fa-css3
       - title: ASP.NET
