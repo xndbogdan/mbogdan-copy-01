@@ -31,7 +31,7 @@ Passionate about finding solutions to problems you didn't even know you had.
 
 <!--EndFragment-->
 
-### [Webfusion](https://artmark.ro)**\-** Full Stack Development & Devops
+### Webfusion **\-** Full Stack Development & Devops
 
 * Implemented error reporting software & integrated microservices like aws s3 & sns
 * Working with a team of ~4 people
