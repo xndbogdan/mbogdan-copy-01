@@ -48,7 +48,7 @@ sections:
         icon: fab fa-js orange-fa
       - title: Inertia.js
         text: Used for [TrackerPro ](https://github.com/xndbogdan/TrackerPro)hiring
-          challenge.
+          challenge and a few confidential projects.
         icon: fab fa-js orange-fa
       - title: Tailwindcss & Bootstrap
         text: Big fan of Tailwind. Experienced with Bootstrap 3 and 4.
