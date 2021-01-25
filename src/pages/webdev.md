@@ -46,8 +46,8 @@ Passionate about finding solutions to problems you didn't even know you had.
 * Worked on the project since the beginning, and continued to the end. I'm still responsible for small RFCs
 * Gained experience with Laravel, Vue and Vuex
 * Was responsible for full stack development
-* Built [https://www.artmark.ro/](<* https://www.artmark.ro/>) and [https://www.sothebysrealty.ro/](<* https://www.sothebysrealty.ro/>) with the dev team.
-* Maintained and upgraded [https://www.artsafari.ro/ ](<* https://www.artsafari.ro/>)and [https://tickets.artsafari.ro/.](https://tickets.artsafari.ro/)
+* Built [https://www.artmark.ro/ ](https://www.artmark.ro)and [https://www.sothebysrealty.ro/](https://www.sothebysrealty.ro) with the dev team.
+* Maintained and upgraded <https://www.artsafari.ro/> and [https://tickets.artsafari.ro/.](https://tickets.artsafari.ro/)
 
 ### [Sentimente ](https://www.sentimente.ro/)- Developer
 
