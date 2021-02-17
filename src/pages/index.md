@@ -68,8 +68,8 @@ sections:
       - title: Address
         text: ""
       - title: Email
-        text: bogdanmmosteanu@gmail.com
-        url: mailto:bogdanmmosteanu@gmail.com
+        text: bogdan.mosteanu@hey.com
+        url: mailto:bogdan.mosteanu@hey.com
       - title: Phone
         text: "+40723400149"
         url: tel:+40723400149
