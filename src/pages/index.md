@@ -76,15 +76,9 @@ sections:
     social:
       title: Social Media
       social_icons:
-        - title: Twitter
-          icon: fa-twitter
-          url: https://twitter.com/xnd_bogdan
         - title: GitHub
           icon: fa-github
           url: https://github.com/xndbogdan
-        - title: Instagram
-          icon: fa-instagram
-          url: https://www.instagram.com/xnd_bogdan/
         - title: LinkedIn
           icon: fa-linkedin
           url: https://www.linkedin.com/in/bogdan-mihai-476262120/
